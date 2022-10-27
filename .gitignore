@@ -1,2 +1,2 @@
-dir_to_ignore/.settings/
-dir_to_ignore/bin/
+/.settings/
+/bin/
